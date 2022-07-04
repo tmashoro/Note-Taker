@@ -4,7 +4,7 @@ This application will use an Express.js back end and will save and retrieve note
 
 ## Github : [Github](https://github.com/tmashoro/Note-Taker)
 
-## Deployed app : [Heroku](https://scenic-north-cascades-88028.herokuapp.com/notes)
+## Deployed app : [Heroku](https://scenic-north-cascades-88028.herokuapp.com/)
 
 ## Description
 
